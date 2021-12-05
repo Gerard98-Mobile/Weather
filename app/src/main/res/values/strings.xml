@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="apply">apply</string>
+    <string name="reset_all_cache">Reset all cache</string>
+    <string name="reset_cache_for_provided_data">Reset cache for provided data</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="ok">Ok</string>
+    <string name="not_empty_validation_error">Field cannot be empty</string>
+    <string name="no_network">Check your internet connection</string>
+    <string name="error">Error</string>
+    <string name="close">close</string>
+    <string name="data_from_cache">Data from cache</string>
+    <string name="data_from_api">Data from api</string>
+    <string name="no_data">No data</string>
+</resources>
